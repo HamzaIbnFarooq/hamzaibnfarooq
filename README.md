@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hamza Farooq's github stats](https://github-readme-stats.vercel.app/api?username=hamzaibnfarooq)
-
-![](https://komarev.com/ghpvc/?username=hamzaibnfarooq)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaibnfarooq)
