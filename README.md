@@ -68,10 +68,11 @@
 <br/>
 
 ## Islam
-I am learning Islam and found this video very helpful in understanding the similarities between Islam and Other Religions (specially Christianity), putting it out, hoping it might help someone.
+I am learning Islam and found this video very helpful in understanding the similarities between Islam and Other Religions (specially Christianity), so putting it out, hoping it might help someone.
 <br/>
-  &nbsp;
-<a href="https://www.youtube.com/watch?v=XcVrZQkwZMo"><img alt="SIMILARITIES BETWEEN CHRISTIANITY AND ISLAM | by Dr Zakir Naiq" title="SIMILARITIES BETWEEN CHRISTIANITY AND ISLAM | by Dr Zakir Naiq"/></a>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=XcVrZQkwZMo"><img alt="SIMILARITIES BETWEEN CHRISTIANITY AND ISLAM | by Dr Zakir Naiq" title="SIMILARITIES BETWEEN CHRISTIANITY AND ISLAM | by Dr Zakir Naiq" src="https://cdn-bhemb.nitrocdn.com/fwHRWjpOqBjnidmoGOQdWQIYsUkSWlWU/assets/static/optimized/rev-823f645/wp-content/themes/zakir/assets/images/homepage/Public_Lectures/4.jpg"/></a>
+</p>
 
 ## Let's Connect
 <p align="center">
