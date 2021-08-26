@@ -3,10 +3,10 @@
 <hr/>
 <h4 align="center">I'm a Python Full-stack developer. I love to learn and explore new things.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mumarkhan999&label=Profile%20views&color=0e75b6&style=plastic" alt="mumarkhan999" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hamzaibnfarooq&label=Profile%20views&color=0e75b6&style=plastic" alt="hamzaibnfarooq" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mumarkhan999&theme=algolia" alt="mumarkhan999"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaibnfarooq&theme=algolia" alt="hamzaibnfarooq"  /></p>
 
 
 ## 🛠️ My Skills
@@ -71,7 +71,7 @@
 I am learning Islam and found this video very helpful in understanding the similarities between Islam and Other Religions (specially Christianity), so putting it out, hoping it might help someone.
 <br/>
 <p align="center">
-<a href="https://www.youtube.com/watch?v=XcVrZQkwZMo"><img alt="SIMILARITIES BETWEEN CHRISTIANITY AND ISLAM | by Dr Zakir Naiq" title="SIMILARITIES BETWEEN CHRISTIANITY AND ISLAM | by Dr Zakir Naiq" src="https://cdn-bhemb.nitrocdn.com/fwHRWjpOqBjnidmoGOQdWQIYsUkSWlWU/assets/static/optimized/rev-823f645/wp-content/themes/zakir/assets/images/homepage/Public_Lectures/4.jpg"/></a>
+<a href="https://www.youtube.com/watch?v=XcVrZQkwZMo"><img alt="SIMILARITIES BETWEEN CHRISTIANITY AND ISLAM | by Dr Zakir Naiq" title="SIMILARITIES BETWEEN CHRISTIANITY AND ISLAM | by Dr Zakir Naiq" src="https://cdn-bhemb.nitrocdn.com/fwHRWjpOqBjnidmoGOQdWQIYsUkSWlWU/assets/static/optimized/rev-823f645/wp-content/themes/zakir/assets/images/homepage/Public_Lectures/4.jpg" width="300px"/></a>
 </p>
 
 ## Let's Connect
